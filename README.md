@@ -1,11 +1,9 @@
 # Lab10web
-
-Nama : Syifa Aurellia Rahma
-
-NIM  : 312210009
-
+```
+Nama : Frans Putra Sinaga
+NIM  : 312210046
 Kelas : TI.22.A1
-
+```
 ## DAFTAR ISI <br>
 | No | Description | Link |
 |-----|------|-----|
